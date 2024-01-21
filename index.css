@@ -1,0 +1,14 @@
+ button{
+    border: none;
+    padding: auto;
+    color:white;
+    font-weight: bold;
+    width: 200px;
+    height: 25px;
+
+}
+
+#increment-btn{
+    background: rgb(21, 26, 125);
+} 
+
